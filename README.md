@@ -57,3 +57,7 @@ Column names and derived fields may vary slightly between the Excel and Python C
 3. Use `Metro_cmpt_cleaned_data_fixed.csv` as the data file for SQL analysis.
 4. Open `Metro_Analysis.sql` in the SQL environment where the project data is available.
 5. Open `Metro BI.pbix` in Power BI Desktop to explore the report.
+
+## 👨‍💻 About the Author
+
+I am Suma S aspiring Data Analyst transitioning from software testing with 4.10 years experience .with hands-on in collecting, analyzing, and validating raw data from multiple sources while ensuring integrity for business decisions. Proficient in Python, SQL, Excel, Power BI, and data preprocessing tools, passionate about transforming data into actionable insights for process optimization 
